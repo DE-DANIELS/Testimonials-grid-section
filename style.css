@@ -141,4 +141,7 @@ section {
         width: 240px;
         margin-bottom: 0;
     }
+    .daniel >img {
+        right: 60px;
+    }
 }
